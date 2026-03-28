@@ -1,4 +1,4 @@
-# theprincipal
+# THEPRINCIPAL
 
 ## personal info:
 - name: Nick
