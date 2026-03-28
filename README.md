@@ -1,9 +1,9 @@
-# THEPRINCIPAL
+# welcome to _the principal_
 
-## personal info:
-- name: Nick
+## Personal info:
+- Name: Nick
 
-## hobbies:
-- listen to music
-- coding
-- videogames
+## Hobbies:
+- Listen to music
+- Coding
+- Videogames
